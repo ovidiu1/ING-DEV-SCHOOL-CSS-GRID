@@ -1,0 +1,32 @@
+{
+  "name": "codelab-cssgrid",
+  "description": "Devschool - Css Grid Codelab",
+  "main": "index.js",
+  "authors": [
+    "Ovidiu Olea"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "cssGrid"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24",
+    "polymer": "Polymer/polymer#1.11.3",
+    "codelab-components": "https://github.com/raduenuca/codelab-components.git#^2.0.3",
+    "app-layout": "PolymerElements/app-layout#^0.10.7",
+    "paper-icon-button": "PolymerElements/paper-icon-button#^1.1.4",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.3.2",
+    "iron-icons": "PolymerElements/iron-icons#^1.2.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.2.0",
+    "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
+    "paper-dropdown-menu": "PolymerElements/paper-dropdown-menu#^1.5.0",
+    "paper-listbox": "PolymerElements/paper-listbox#^1.1.2",
+    "paper-item": "PolymerElements/paper-item#^1.2.1",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.1.0",
+    "iron-image": "PolymerElements/iron-image#^1.2.5",
+    "paper-menu-button": "PolymerElements/paper-menu-button#^1.5.2",
+    "iron-pages": "PolymerElements/iron-pages#^1.0.8",
+    "app-route": "PolymerElements/app-route#^0.9.3"
+},
+  "homepage": "https://github.com/ovidiu1/devSchool-CssGrid"
+}
