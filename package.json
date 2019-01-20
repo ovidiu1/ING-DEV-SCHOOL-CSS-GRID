@@ -1,6 +1,6 @@
 {
   "name": "codelab-cssgrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Devschool - Css Grid Codelab",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "author": "Ovidiu Olea",
   "license": "ISC",
   "devDependencies": {
-    "polyserve": "^0.26.0"
+    "polyserve": "^0.27.15"
   }
 }
