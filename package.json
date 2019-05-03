@@ -1,19 +1,29 @@
 {
   "name": "codelab-cssgrid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Devschool - Css Grid Codelab",
   "main": "index.js",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "bower i",
-    "start": "polyserve -o"
+    "insatll": "bower install",
+    "start": "node app.js"
   },
   "keywords": [
     "cssGrid"
   ],
   "author": "Ovidiu Olea",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovidiu1/ING-DEV-SCHOOL-CSS-GRID/issues"
+  },
+
   "devDependencies": {
+    "bower": "^1.8.8",
+    "express": "^4.16.4",
     "polyserve": "^0.27.15"
   }
 }
