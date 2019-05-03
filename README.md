@@ -1,3 +1,4 @@
 # CSS Grid CodeLab 
-<h3><a href="https://codelab-css-grid.herokuapp.com/">Hosted here</a></h3>
+#Hosted here
+[a link](https://codelab-css-grid.herokuapp.com/)
 ![Alt text](codelab-css-grid.png?raw=true "codelab-css-grid")
