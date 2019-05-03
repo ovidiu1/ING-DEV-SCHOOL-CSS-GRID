@@ -1,6 +1,6 @@
 {
   "name": "codelab-cssgrid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Devschool - Css Grid Codelab",
   "main": "index.js",
   "engines": {
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinsatll": "bower install",
+    "postinstall": "bower install",
     "start": "node app.js"
   },
   "keywords": [
