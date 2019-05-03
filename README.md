@@ -1,2 +1,2 @@
 # CSS Grid CodeLab 
-### [Hosted here] (https://raduenuca.github.io/dev-school-labs/codelabs/css-grid#0)
+<h3><a href="https://codelab-css-grid.herokuapp.com/">Hosted here</a></h3>
