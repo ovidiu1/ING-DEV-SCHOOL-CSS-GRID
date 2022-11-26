@@ -1,6 +1,6 @@
 {
   "name": "codelab-cssgrid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Devschool - Css Grid Codelab",
   "main": "index.js",
   "scripts": {
