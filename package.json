@@ -18,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "polyserve": "^0.27.15"
+  },
+  "dependencies": {
+    "bower": "^1.8.14"
   }
 }
