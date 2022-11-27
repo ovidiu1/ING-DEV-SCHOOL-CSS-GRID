@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "bower i && polymer build",
-    "start": "polymer serve build/default"
+    "start": "node server.js"
   },
   "keywords": [
     "cssGrid"
@@ -18,6 +18,10 @@
   "license": "ISC",
   "dependencies": {
     "bower": "^1.8.14",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "path": "^0.12.7",
     "polymer-cli": "^1.9.11",
     "polyserve": "^0.27.15"
   }
