@@ -1,6 +1,6 @@
 {
   "name": "codelab-cssgrid",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "node": "18.12.1"
   },
