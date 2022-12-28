@@ -4,9 +4,9 @@
   "description": "Devschool - Css Grid Codelab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "npm i && polymer build",
-    "start": "node server.js"
+    "start": "polymer serve",
+    "postinstall": "polymer build",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "cssGrid"
