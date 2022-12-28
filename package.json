@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "polymer serve",
-    "postinstall": "polymer build",
+    "postinstall": "bower i && polymer build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
